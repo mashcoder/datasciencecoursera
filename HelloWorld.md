@@ -1,4 +1,4 @@
-Title Hello World Markdown
+Hello World Markdown
 ========================================================
 ## This is a markdown file
 
